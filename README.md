@@ -6,9 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+System+Builder;MERN+Stack+Engineer;Building+SupplierHub" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Piyush416&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -18,33 +15,31 @@ I am a **Full-Stack Developer focused on building scalable web applications and 
 
 Currently I am developing **SupplierHub**, a platform that helps **Meesho suppliers automatically find the lowest shipping charge by uploading product images and selecting categories.**
 
-I enjoy solving:
+🎯 My focus areas:
 
-• Backend architecture problems
-• API integrations
-• Automation systems
-• Scalable backend services
-
-🎯 **Goal:** Become a strong software engineer building impactful software products.
+• Backend Architecture
+• API Integrations
+• Automation Systems
+• Scalable Web Applications
 
 ---
 
 # 🚀 Featured Project
 
-## SupplierHub
+## SupplierHub <img src="https://supplierhub.in/favicon.svg" width="20"/>
 
-🌐 https://supplierhub.in
+🌐 https://www.supplierhub.in
 
-SupplierHub is a tool designed to simplify supplier workflows.
+SupplierHub helps **Meesho suppliers automatically find the lowest shipping charge and optimize their product workflow.**
 
 ### Key Features
 
-• Lowest shipping charge detection
+• Shipping charge optimization
 • Product image upload processing
 • Supplier workflow automation
-• Session management system
+• Secure session management
 • Razorpay payment integration
-• AWS deployment
+• AWS cloud deployment
 
 ---
 
@@ -55,21 +50,29 @@ SupplierHub is a tool designed to simplify supplier workflows.
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 
+---
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge\&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![FramerMotion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge\&logo=framer)
+
+---
 
 ### Backend
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge\&logo=express)
 
-### Database
+---
+
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+
+---
 
 ### Cloud & Tools
 
@@ -107,14 +110,6 @@ SupplierHub is a tool designed to simplify supplier workflows.
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush416&theme=tokyo-night" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Piyush416/Piyush416/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
