@@ -1,16 +1,130 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Piyush Bagadi</h1>
 
-<!--
-**Piyush416/Piyush416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Developer | MERN Stack | Backend Systems</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+System+Builder;MERN+Stack+Engineer;Building+SupplierHub" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Piyush416&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I am a **Full-Stack Developer focused on building scalable web applications and automation tools**.
+
+Currently I am developing **SupplierHub**, a platform that helps **Meesho suppliers automatically find the lowest shipping charge by uploading product images and selecting categories.**
+
+I enjoy solving:
+
+• Backend architecture problems
+• API integrations
+• Automation systems
+• Scalable backend services
+
+🎯 **Goal:** Become a strong software engineer building impactful software products.
+
+---
+
+# 🚀 Featured Project
+
+## SupplierHub
+
+🌐 https://supplierhub.in
+
+SupplierHub is a tool designed to simplify supplier workflows.
+
+### Key Features
+
+• Lowest shipping charge detection
+• Product image upload processing
+• Supplier workflow automation
+• Session management system
+• Razorpay payment integration
+• AWS deployment
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge\&logo=vite)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge\&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![Razorpay](https://img.shields.io/badge/Razorpay-blue?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush416&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Piyush416&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush416&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush416&theme=tokyo-night" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Piyush416/Piyush416/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/chenu51">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+---
+
+⭐ From [Piyush416](https://github.com/Piyush416)
